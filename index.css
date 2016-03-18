@@ -1,0 +1,14 @@
+.post {
+	background-color: blue;
+	height: 200px;
+	color: white;
+	border-color: purple;
+	border-width: 2px;
+	border-style: solid;
+	padding: 8px;
+	margin: 10px;
+}
+
+#post1 {
+	font-size: 200%;
+}
